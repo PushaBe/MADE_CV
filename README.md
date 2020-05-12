@@ -23,3 +23,4 @@
 
 
 # Скрин с LB Kaggle
+![Image description](https://i.imgur.com/wtJJa3a.png)
